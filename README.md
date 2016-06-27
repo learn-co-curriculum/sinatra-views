@@ -22,7 +22,7 @@ Rendering plain text is a great way to test the behaviors of our routes, but it 
 	end
 ``` 
 
-Run `shotgun` and go to [http://localhost:9393](http://localhost:9393). You're "Hello World" should now appear as an h1. Nice!
+Run `shotgun` and go to [http://localhost:9393](http://localhost:9393). Your "Hello World" should now appear as an h1. Nice!
 
 ### Part 2: Using an ERB File
 
@@ -114,3 +114,5 @@ By convention though, we keep our routes and our erb files named the same. This 
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/sinatra-views' title='Sinatra Views'>Sinatra Views</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/sinatra-views'>Sinatra Views</a> on Learn.co and start learning to code for free.</p>
